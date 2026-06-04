@@ -89,6 +89,10 @@ I am a passionate **Full-Stack Web Developer** and IT professional focused on bu
 *   **Backend & API Integration:** Architected a robust Node.js/Express server and designed clean RESTful API endpoints to handle asynchronous data fetching, secure user validation, and real-time trainer tracking.
 *   **Database Engineering:** Designed a strictly normalized MySQL relational schema to securely manage complex data structures, including multi-tiered gym memberships, user profiles, and active workout schedules.
 *   **User Experience (UX):** Implemented interactive, personalized member dashboards and dynamic scheduling components that instantly react to user input, significantly reducing operational friction for gym administrators.
+
+  #### 🎟️ [Digital Lottery System](https://github.com/Souravian001/lotary_system)
+*A lightweight, full-stack web application designed for managing randomized digital draws and secure ticketing.*
+*   **Tech Stack:** Node.js, Express.js, MySQL, JavaScript, HTML/CSS
   
 
 ---
