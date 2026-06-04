@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/normal-count.svg?username=Souravian001&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Souravian001&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ### 💫 About Me:
