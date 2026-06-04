@@ -36,9 +36,12 @@ I am a passionate **Full-Stack Web Developer** and IT professional focused on bu
 
 #### ☁️ Specialized Ecosystems & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Salesforce_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+   
+  <img src="https://img.shields.io/badge/Salesforce_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </p>
 
 ---
