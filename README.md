@@ -45,30 +45,43 @@ I am a passionate **Full-Stack Web Developer** and IT professional focused on bu
 
 ### 📂 Featured Projects:
 
+#### 👥 [Employee Management System](https://github.com/Roy-Ray/employee_mgmt_sys)
+*An enterprise-ready administrative dashboard for tracking corporate employee details, roles, and automated payroll reporting.*
+*   **Tech Stack:** Node.js, Express.js, MySQL, Bootstrap
+*   **Key Feature:** Designed clean, predictable RESTful API endpoints alongside solid Object-Oriented Programming (OOP) paradigms for managing underlying corporate data models.
+  
 #### 🍽️ [Smart Dine-In](https://github.com/Roy-Ray/smart-dine-in)
 *An intelligent, web-based digital dining and restaurant management system designed to streamline customer ordering and table operations.*
 *   **Tech Stack:** Node.js, Express.js, MySQL, JavaScript, HTML5, CSS3
 *   **Key Feature:** Developed a robust backend architecture utilizing relational database relationships to manage real-time menu synchronization, secure order processing, and dynamic table allocation.
 
-#### 🏋️‍♂️ [IronCore Gym](https://github.com/Souravian001/ironcore-gym)
-*A complete web application designed for fitness centers to manage member subscriptions, workout schedules, and trainer tracking.*
-*   **Tech Stack:** Node.js, Express.js, MySQL, JavaScript, Bootstrap, CSS3
-*   **Key Feature:** Implemented personalized member dashboards, interactive scheduling components, and secure backend validation handling user profiles and gym tiers.
-
 #### 🤖 Image In-Painting using Generative AI
 *A cutting-edge deep learning project focused on intelligently reconstructing missing, damaged, or masked parts of images.*
-*   **Tech Stack:** Python, GANs (Generative Adversarial Networks), PyTorch / TensorFlow, OpenCV
+*   **Tech Stack:** Python, GANs (Generative Adversarial Networks), PyTorch
 *   **Key Feature:** Developed deep convolutional neural network layers to flawlessly maintain structural, geometric, and textural consistency in restored regions.
 
-#### 📚 Library Management System
+#### 📚 [Library Management System](https://github.com/Souravian001/library-management-full-stack)
 *A lightweight, robust web platform built to automate book tracking, inventory management, and digital member records.*
 *   **Tech Stack:** Node.js, Express.js, MySQL, JavaScript, HTML/CSS
 *   **Key Feature:** Architected an optimized relational database schema with indexed keys to guarantee ultra-fast search queries across books and author domains.
 
-#### 👥 Employee Management System
-*An enterprise-ready administrative dashboard for tracking corporate employee details, roles, and automated payroll reporting.*
-*   **Tech Stack:** Node.js, Express.js, MySQL, Bootstrap
-*   **Key Feature:** Designed clean, predictable RESTful API endpoints alongside solid Object-Oriented Programming (OOP) paradigms for managing underlying corporate data models.
+#### 🎫 [Event Management Architecture (Freelance Project)](https://github.com/Roy-Ray/event-platform)
+*An end-to-end, full-stack event registration and operational dashboard developed as a tailored freelance solution to digitize and scale client event workflows.*
+*   **Tech Stack:** Node.js, Express.js, MySQL, RESTful APIs, JavaScript, HTML5/CSS3
+*   **Backend Architecture:** Architected a scalable Node.js and Express server implementing clean MVC design patterns and predictable RESTful API endpoints for seamless client-server communication.
+*   **Database Engineering:** Designed a strictly normalized MySQL relational schema to manage complex data relationships across users, ticketing tiers, and live schedules while ensuring high transactional data integrity.
+*   **Authentication & Security:** Implemented robust session management and Role-Based Access Control (RBAC) to securely segregate administrative organizer capabilities from general attendee access.
+*   **Business Impact:** Streamlined the client's manual registration process into an automated digital pipeline, significantly reducing administrative overhead and improving real-time attendee tracking.
+  
+#### 🏋️‍♂️ [IronCore Gym Management System](https://github.com/Souravian001/ironcore-gym)
+*A modern, fully functional Single Page Application (SPA) built to streamline fitness center operations, member subscriptions, and interactive workout scheduling.*
+*   **Tech Stack:** React.js, Node.js, Express.js, MySQL, RESTful APIs, CSS3/Bootstrap
+*   **Frontend Architecture:** Engineered a highly responsive, dynamic user interface utilizing React functional components, Hooks, and efficient state management to deliver a seamless, zero-reload user experience.
+*   **Backend & API Integration:** Architected a robust Node.js/Express server and designed clean RESTful API endpoints to handle asynchronous data fetching, secure user validation, and real-time trainer tracking.
+*   **Database Engineering:** Designed a strictly normalized MySQL relational schema to securely manage complex data structures, including multi-tiered gym memberships, user profiles, and active workout schedules.
+*   **User Experience (UX):** Implemented interactive, personalized member dashboards and dynamic scheduling components that instantly react to user input, significantly reducing operational friction for gym administrators.
+  
+
 ---
 
 ### 📊 GitHub Analytics:
