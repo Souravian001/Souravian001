@@ -73,8 +73,8 @@ I am a passionate **Full-Stack Web Developer** and IT professional focused on bu
 
 ### 📊 GitHub Analytics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Souravian001&show_icons=true&theme=radical&count_private=true" alt="Sourav's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravian001&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </p>
 
 ---
